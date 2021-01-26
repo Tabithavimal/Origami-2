@@ -1,0 +1,51 @@
+h1{color:blue}
+
+.Header{
+
+    background-color:red;
+    display:flex;
+justify-content: space-between;
+margin-left: 10px;
+padding-left: 10px;
+
+
+    }
+
+    .grid{
+
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        
+        }
+
+        .SiteDescription{
+
+            text-align: center;
+            
+            
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
